@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagarika Reddi</h1>
-<h3 align="center">A passionate Technical Research Analyst from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <h3 align="center">My work lives in a digital environment and is nurtured by the love of designing and developing. By combining my creativity and skills I create interactive pages and add a life for websites. I draw my inspiration from the madness of daily designing and building it going through on contemporary bugs and everlasting love for developing.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/sagarikareddi/sagarikareddi/blob/main/10733828_4542736.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkry&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkry" /> </p>
 
-- 👯 I’m looking to collaborate on **Web developer**
+- 👯 I’m looking to collaborate as a **Web developer**
 
 - 👨‍💻 All of my projects are available at [https://sagarikareddi.github.io/portfolio/](https://sagarikareddi.github.io/portfolio/)
 
