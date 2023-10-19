@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkry&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkry" /> </p>
 
-- 👯 I’m looking to collaborate on **TRA**
+- 👯 I’m looking to collaborate on **Web developer**
 
 - 👨‍💻 All of my projects are available at [https://sagarikareddi.github.io/portfolio/](https://sagarikareddi.github.io/portfolio/)
 
-- 💬 Ask me about **Technical Research Analyst**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **sagarikareddi.06gmail.com**
 
