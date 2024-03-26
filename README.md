@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate as a **Web developer**
 
-- 👨‍💻 All of my projects are available at [https://sagarikareddi.github.io/portfolio/](https://sagarikareddi.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://sagarikaportfolioz.netlify.app](https://sagarikaportfolioz.netlify.app)
 
 - 💬 Ask me about **Web development**
 
